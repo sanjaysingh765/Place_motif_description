@@ -1,0 +1,471 @@
+         Motif name	Motiff_sequence	Motif_length	Motif_ID	                                           Motif_description
+            -10PEHVPSBD	     TATTCT	6	S000392	  "-10 promoter element" found in the barley (H.v.) chloroplast psbD gene promoter; Involved in the ex
+             -141NTG13	GCTTTTGATGACTTCA	21	S000335	  "-141 sequence"; Binding site of tobacco (N.t.) TGA1a-related protein,PG13, found in the G13 gene pr
+          -284MOTIFZMSBE1	CGTGCAAGCCCAAAGG	30	S000285	  Located between -284 and -255 region of maize (Z.m.) Sbe1 gene promoter; Critical positive cis eleme
+             -300CORE	    TGTAAAG	7	S000001	  "TGTAAAG core motif" in "-300 elements" of alpha-zein genes of maize; "-300 element core"; "prolamin
+            -300ELEMENT	    TGHAAARK	8	S000122	  Present upstream of the promoter from the B-hordein gene of barley and the alpha-gliadin, gamma-glia
+          -300MOTIFZMZEIN	   RTGAGTCAT	9	S000002	  Motif in -300 elements of alpha-zein genes of maize (Z.m.); homologous to the sequence to which tran
+          -314MOTIFZMSBE1	ACATAAAATAAAAAAA	20	S000284	  Located between -314 and -295 region of maize (Z.m.) Sbe1 gene promoter; Critical positive cis eleme
+            14BPATERD1	 CACTAAATTGTCAC	14	S000412	   "14 bp region" (from -599 to -566) necessary for expression of erd1 (early responsive to dehydratio
+             20NTNTNOS	TGAGCTAAGCACATAC	20	S000312	   "20nt (20 nucleotide sequence)" found in the promoter on tobacco (N.t.) nopalin synthase (nos) gene
+          23BPUASNSCYCB1	TTTATTTACCAAACGG	23	S000283	   "23 bp UAS (Upstream activating sequence)" found in the promoter of Nicotiana sylvestris (N.s.) Cyc
+          23BPZM27KDAZEIN	GACGTGTAAAGTAAAT	23	S000341	   23 bp sequence found in the maize (Z.m.) gamma-class 27kDa zein gene promoter; Contains -300 elemen
+       27BPDRCONSENSUSPS25S	TCCGCCWCTTGTATTC	27	S000286	   The consensus sequence of 27 bp imperfect repeats found in the untrascribed spacer close to the 3'e
+         2SSEEDPROTBANAPA	    CAAACAC	7	S000143	   Conserved in many storage-protein gene promoters; May be important for high activity of the napA pr
+          3AF1BOXPSRBCS3	AAATAGATAAATAAAA	21	S000004	   "3AF1 binding site"; tetramer in the light-responsive promoter of pea (P.s.) rbcS-3A gene; "Box VI"
+         5256BOXLELAT5256	  TGTGGTTATATA	12	S000279	   "52/56 box"; A sequence motif shared between the tomato (L.e.) LAT(Late Anther Tomato)52 and LAT56
+         5659BOXLELAT5659	   GAAWTTGTGA	10	S000280	   "56/59 box"; A sequence motif shared between the tomato (L.e.) LAT(Late Anther Tomato)56 and LAT59
+          AACACOREOSGLUB1	    AACAAAC	7	S000353	   Core of AACA motifs found in rice (O.s.) glutelin genes, involved in controlling the endosperm-spec
+            AACAOSGLUB1	 CAACAAACTATATC	14	S000276	   "AACA motif" found in GluB-1 gene in rice (O.s.); Required for endosperm-specific expression; Highl
+         AAGACGTAGATACL12	   AAGACGTAG	9	S000344	   Sequence found in Arabidopsis (A.t.) acyl carrier protein (ACP), Acl1.2, gene promoter; Contains bZ
+             ABADESI1	   RTACGTGGCR	10	S000007	   ABADESI1 Responsive to ABA and desiccation; "Motif I" of rice rab16A-D (initially called rab-21); E
+             ABADESI2	  GGACGCGTGGC	11	S000008	   ABADESI2 Synthetic element (hex-3) related to response to ABA and to desiccation; seed expression;
+              ABAREG2	  ATGTACGAAGC	11	S000009	        Motif related to ABA regulation; Gene: sunflower helianthinin; transacting factor: bZIP ?
+             ABASEED1	  TGTTACGTGCC	11	S000011	   ABA regulation; seed expression; Gene: carrot Dc3; Transacting factor: bZIP ?; Contains ACGT motif;
+               ABFOS	GCATCTTTACTTTAGC	19	S000190	   ABF (as-1-like box binding factor) binding site; as-1-like (ASL) box is found at -98 to -79 of RTBV
+             ABRE2HVA1	  CCTACGTGGCGG	12	S000134	   ABA responsive element, ABRE2, found in barley (H.v.) HVA1 gene encoding a class 3 late embryogenes
+            ABRE2HVA22	   CGCACGTGTC	10	S000117	   "ABRE2" of barley HVA22 gene; G-box; component of ABA response complex in HVA22 gene; see S0118 (AB
+             ABRE3HVA1	   GCAACGTGTC	10	S000135	   ABA responsive element, ABRE3, found in barley (H.v.) HVA1 gene encoding a class 3 late embryogenes
+            ABRE3HVA22	   GCCACGTACA	10	S000118	   "ABRE3" of barley HVA22 gene; Newly designated "A3" by Shen et al., Plant Cell 8:1107 (1996); G-box
+           ABRE3OSRAB16	  GTACGTGGCGC	11	S000120	                  ABA-responsive element of rice (O.s.) rab16 and alpha-amylase genes;
+            ABREA2HVA1	   CCTACGTGGC	10	S000140	   A2 of ABRC3; ABRC3 (ABA response complex 3) of HVA1 consists of CE3 and A2; ABA responsive element;
+          ABREATCONSENSUS	    YACGTGGC	8	S000406	   ABA-responsive elements (ABREs) found in the promoter of ABA and/or stress-regulated genes; ABFs, a
+            ABREATRD22	   RYACGTGGYR	10	S000013	   "ABRE (ABA responsive element)" in Arabidopsis (A.t.) dehydration-responsive gene rd22; R=A/G; Y=C/
+           ABREAZMRAB28	   GCCACGTGGG	10	S000218	   ABA-responsive element (ABRE A) found at -148 to -139 in maize rab28 (Busk & Pages, 1997); Maize ra
+            ABREBNNAPA	  CGCCACGTGTCC	12	S000145	   ABRE of napA storage-protein gene of Brassica napus (B.n.); ABA responsive element; dist B ABRE med
+           ABREBZMRAB28	   TCCACGTCTC	10	S000219	   ABA-responsive element (ABRE B) found at -105 to -96 in maize (Z.m.) rab28 (Busk & Pages, 1997); Ma
+           ABRECE1HVA22	   TGCCACCGG	9	S000014	   CE1(coupling element 1) of barley HVA22 gene; possible binding site for nuclear bZIP protein; ABA r
+            ABRECE3HVA1	  ACGCGTGTCCTC	12	S000141	   CE3 (coupling element 3) of ABRC3 in barley HVA1 gene; ABRC3 (ABA response complex 3) of HVA1 consi
+          ABRECE3ZMRAB28	  ACGCGCCTCCTC	12	S000221	   CE3 (coupling element 3) in maize (Z.m.) rab28 gene promoter; ABA responsive element; stress respon
+          ABREDISTBBNNAPA	   GCCACTTGTC	10	S000262	   "dist B (distal portion of B-box)" found in napA gene of Brassica napus (B.n.); Shows similarity to
+            ABRELATERD1	     ACGTG	5	S000414	   ABRE-like sequence (from -199 to -195) required for etiolation-induced expression of erd1 (early re
+         ABREMOTIFAOSOSEM	    TACGTGTC	8	S000299	   "motif A" ABRE-like sequence found in rice (O.s.) Osem gene promoter; Essential for activation by V
+       ABREMOTIFIIIOSRAB16B	   GCCGCGTGGC	10	S000291	   "ABRE motif A" found in the promoter of the rice (O.s.) Osem gene; ACGT-containing ABRE; Required f
+        ABREMOTIFIOSRAB16B	   AGTACGTGGC	10	S000290	   "Motif III" found in the promoter of rice (O.s.) rab16B gene; Motif I (S000290) and motif III are b
+            ABREOSRAB21	    ACGTSSSC	8	S000012	   "ABA responsive element (ABRE)" of wheat Em and rice (O.s.) rab21 genes; Proposed consensus sequenc
+            ABRERATCAL	    MACGYGB	7	S000507	   "ABRE-related sequence" or "Repeated sequence motifs" identified in the upstream regions of 162 Ca(
+             ABRETAEM	  GGACACGTGGC	11	S000015	   "ABRE (ABA responsive element)" found in wheat (T.a.) Em gene; transacting factor: EMBP-1; EMBP-1 b
+            ABREZMRAB28	    CCACGTGG	8	S000133	   ABRE; ABA and water-stress responses; Found in maize (Z.m.) rab28; maize rab28 is ABA-inducible in
+             ACEATCHS	   GACACGTAGA	10	S000355	   "ACEAtCHS (ACGT containing element)" found in the LRU (light-responsive unit) in Arabidopsis (A.t.)
+             ACGTABOX	     TACGTA	6	S000130	   "A-box" according to the nomenclature of ACGT elements by Foster et al. (FASEB J 8:192-200 (1994));
+        ACGTABREMOTIFA2OSEM	    ACGTGKC	7	S000394	   Experimentally determined sequence requirement of ACGT-core of motif A in ABRE of the rice gene, OS
+       ACGTABREMOTIFAOSOSEM	    TACGTGTC	8	S000281	   "ABRE motif A" found in the promoter of the rice (O.s.) Osem gene; ACGT-containing ABRE; Required f
+            ACGTATERD1	      ACGT	4	S000415	   ACGT sequence (from -155 to -152) required for etiolation-induced expression of erd1 (early respons
+             ACGTCBOX	     GACGTC	6	S000131	   "C-box" according to the nomenclature of ACGT elements by Foster et al. (FASEB J 8:192-200 (1994));
+            ACGTOSGLUB1	    GTACGTG	7	S000278	   "ACGT motif" found in GluB-1 gene in rice (O.s.); Required for endosperm-specific expression; Conse
+             ACGTROOT1	   GCCACGTGGC	10	S000016	   "ACGT motif" related to root expression; Gene: synthetic; perfect palindromic sequence (PA) contain
+             ACGTSEED2	  ACACACGTCAA	11	S000018	      "ACGT motif" related to seed expression; Gene: French bean phaseolin; transacting factor: 02;
+             ACGTSEED3	   GTACGTGGCG	10	S000019	   "ACGT motif" related to seed expression; Gene: synthetic; wild-type motif (Iwt) containing G-box-re
+             ACGTTBOX	     AACGTT	6	S000132	   "T-box" according to the nomenclature of ACGT elements by Foster et al. (FASEB J 8:192-200 (1994));
+            ACIIIPVPAL2	   GTTAGGTTC	9	S000194	   ACIII element found at -246 to -238 of bean (P.v.) PAL2 promoter; ACIII element is required for vas
+            ACIIPVPAL2	  CCACCAACCCCC	12	S000193	   ACII element found at -131 to -120 of bean (P.v.) PAL2 promoter; ACII element is required for vascu
+             ACIPVPAL2	   CCCACCTACC	10	S000192	   ACI element found at -83 to -74 of bean (P.v.) PAL2 promoter; AC-rich element; ACI element is requi
+        AGAMOUSATCONSENSUS	TTDCCWWWWWWGGHAA	16	S000342	   "CArG consensus" sequence found in the promoter of Arabidopsis (A.t.) SOC1 which is the MADS-box fl
+           AGATCONSENSUS	TTWCCWWWWNNGGWW	15	S000316	   Binding consensus sequence for the product of the Arabidopsis (A.t.) floral homeotic gene AGAMOUS (
+            AGCBOXNPGLB	    AGCCGCC	7	S000232	   "AGC box" repeated twice in a 61 bp enhancer element in tobacco (N.p.) class I beta-1,3-glucanase (
+          AGL1ATCONSENSUS	NTTDCCWWWWNNGGWA	18	S000338	   Binding consensus sequence of Arabidopsis (A.t.) AGL1 (AGAMOUS-like 1); AGL1 contains MADS domain;
+          AGL2ATCONSENSUS	NNWNCCAWWWWTRGWW	18	S000339	   Binding consensus sequence of Arabidopsis (A.t.) AGL2 (AGAMOUS-like 2); AGL2 contains MADS domain;
+          AGL3ATCONSENSUS	TTWCYAWWWWTRGWAA	16	S000343	   Binding consensus sequence of Arabidopsis(A.t.) AGL3; AGL3 is MADS-box domain protein; AGL3 is expr
+           AGMOTIFNTMYB2	    AGATCCAA	8	S000444	   AG-motif found at -114 of the promoter of NtMyb2 gene; NtMyb2 is a regulator of the tobacco retrotr
+             AGTACSAO	AAAAAGTAAAAAGTAA	28	S000258	   "AGTA repeat" in pumpkin (C.s.) ascorbate oxidase gene (AO) promoter; Found in silencer region; AOB
+            ALF1NTPARC	TTACGCAAGCAATGAC	17	S000238	   "ALF-1 (as-1-like sequence binding factor)" binding site found in tobacco (N.t.) parC gene; Found i
+            ALF2NTPARB	TGAGGAGACTTGTGAG	18	S000239	   "ALF-2 (as-1-like sequence binding factor 2)" binding site found in tobacco (N.t.) parB gene; Found
+         AMMORESIIUDCRNIA1	    GGWAGGGT	8	S000374	   Motifs (IIU and II) Nia1 gene   Motifs (IIU and IID) found in the Chlamydomonas (C.R.) Nia1 gene pr
+         AMMORESIVDCRNIA1	    CGAACTT	7	S000375	   Motif (IVD) found in the Chlamydomonas (C.R.) Nia1 gene promoter; Located between    -51 and -42; I
+          AMMORESVDCRNIA1	   GGCCCCGGG	9	S000376	   Motif (VD) found in the Chlamydomonas (C.R.) Nia1 gene promoter; Located between    -33 and -8; Inv
+              AMYBOX1	    TAACARA	7	S000020	   "amylase box"; Conserved sequence found in 5'-upstream region of alpha-amylase gene of rice, wheat,
+              AMYBOX2	    TATCCAT	7	S000021	   "amylase box"; "amylase element"; Conserved sequence found in 5'upstream region of alpha-amylase ge
+         ANAERO1CONSENSUS	    AAACAAA	7	S000477	   One of 16 motifs found in silico in promoters of 13 anaerobic genes involved in the fermentative pa
+         ANAERO2CONSENSUS	     AGCAGC	6	S000478	   One of 16 motifs found in silico in promoters of 13 anaerobic genes involved in the fermentative pa
+         ANAERO3CONSENSUS	    TCATCAC	7	S000479	   One of 16 motifs found in silico in promoters of 13 anaerobic genes involved in the fermentative pa
+         ANAERO4CONSENSUS	   GTTTHGCAA	9	S000480	   One of 16 motifs found in silico in promoters of 13 anaerobic genes involved in the fermentative pa
+         ANAERO5CONSENSUS	   TTCCCTGTT	9	S000481	   One of 16 motifs found in silico in promoters of 13 anaerobic genes involved in the fermentative pa
+        ANAEROBICCISZMGAPC4	CGAAACCAGCAACGGT	20	S000350	   20 bp anaerobic cis-regulatory sequence found in the maize (Z.m.) GapC4 (Glyceraldehyde-3-phosphate
+               ARE1	  RGTGACNNNGC	11	S000022	   "ARE (antioxidant response element)"; antioxidant response element of rat glutathione S-transferase
+          ARECOREZMGAPC4	   AGCAACGGTC	10	S000393	   Putative binding site for a Myb found in the promoter of maize glycolytic glyceraldehyde-3-phospate
+          ARELIKEGHPGDFR2	AGTTGAATGGGGGTGC	17	S000437	   Sequence highly similar to ARE (anthocyanin regulatory element) found in maize anthocyanin promoter
+               ARFAT	     TGTCTC	6	S000270	   ARF (auxin response factor) binding site found in the promoters of primary/early auxin response gen
+              ARR1AT	     NGATT	5	S000454	   "ARR1-binding element" found in Arabidopsis; ARR1 is a response regulator; N=G/A/C/T; AGATT is foun
+              AS1CAMV	CCACTGACGTAAGGGA	29	S000023	   "as-1 (activation sequence 1)" in CaMV 35S promoter; from -85 to -58 (subdomain AI); Binding with A
+           AS1LIKECSHPRA	AAATGACGAAAATGC	15	S000260	   13 bp sequence of unknown function found in cucumber (C.s.) hydroxypyruvate reductase (hprA) gene p
+             ASF1ATNOS	TGAGCTAAGCACATAC	21	S000073	   Tobacco ASF-1 binding site in nopaline synthase (NOS) promoter of Ti-plasmid of Agrobacterium tumef
+           ASF1MOTIFCAMV	     TGACG	5	S000024	   "ASF-1 binding site" in CaMV 35S promoter; ASF-1 binds to two TGACG motifs; See S000023 (AS1); Foun
+            ASF1NTPARA	TTACGCAAGCAATGAC	18	S000240	   "ASF-1 (as-1 binding nuclear factor)" binding site found in tobacco (N.t.) parA gene; Found in auxi
+              AT1BOX	  AATATTTTTATT	12	S000025	   "AT-1 box (AT-rich element)" found in the promoter region of the genes for tobacco ( N.p.) chloroph
+         ATHB1ATCONSENSUS	   CAATWATTG	9	S000317	   Recognition sequence of Arabidopsis Athb-1 protein; Athb-1 protein has a HD-Zip motif (homeodomain
+         ATHB2ATCONSENSUS	   CAATSATTG	9	S000318	   Recognition sequence of Arabidopsis Athb-2 protein; Athb-2 protein has a HD-Zip motif (homeodomain
+            ATHB5ATCORE	   CAATNATTG	9	S000371	   Consensus binding sequence for Arabidopsis (A.T.) class I HDzip (Homeodomein-leucine zipper) protei
+            ATHB6COREAT	   CAATTATTA	9	S000399	   Consensus binding sequence for Arabidopsis (A.T.) homeodomain-leucine zipper protein, ATHB6; ATHB6
+           ATRICHPSPETE	AATATACTAGTATTAT	31	 S000248	   A/T-rich sequences found in pea (P.s.) plastocyanin gene (petE) promoter; Act as quantitative enhan
+            AUXREPSIAA4	    KGTCCCAT	8	S000026	   "AuxRE (Auxine responsive element )" of pea (P.s.) PS-IAA4/5 gene; Indoleacetic acid-inducible gene
+          AUXRETGA1GMGH3	    TGACGTAA	8	S000234	   "TGA-box #1" in putative auxin-resonsive element (AUXRE) of soybean (G.m.) GH3 promoter; Strong bin
+          AUXRETGA2GMGH3	   TGACGTGGC	9	S000235	   "TGA-box #2" in putative auxin-resonsive element (AUXRE) E1 of soybean (G.m.) GH3 promoter; Strong
+             B2GMAUX28	   CTTGTCGTCA	10	S000325	   "B2"; DNase I protected sequence found in the soybean (G.m.) auxin responsive gene, Aux28, promoter
+          BBOXSITE1STPAT	   GCTAAACAAT	10	S000398	   "10 base pair motif (site 1)" within the B-box found in the potato patatin gene promoter; Involved
+              BIHD1OS	     TGTCA	5	S000498	                 Binding site of OsBIHD1, a rice BELL homeodomain transcription factor;
+             BOX1PSGS2	  ATAGAAATCAA	11	S000222	   Box 1 element in pea (P.s.) glutamine synthetase (GS2) gene; An element in a 33-bp AT-rich sequence
+            BOX1PVCHS15	 TAAAAGTTAAAAAC	14	S000208	   Box 1 of bean (P.v.) chs15 promoter; one of SBF-1 binding sites in chs15 promoter; Located at -318
+             BOX2PSGS2	  TCTAAGCAAAG	11	S000204	   Box 2 in glutamine synthetase (GS2) gene in pea (P.s.); Repeated in tandem with a partial palindrom
+            BOX2PVCHS15	 CTGTGATTAAATAT	14	S000209	   Box 2 of bean (P.v.) chs15 promoter; SBF-1 binding site; For a compilation of related GT elements a
+            BOX3PVCHS15	 TATTGGTTACTAAA	14	S000210	   Box 3 of bean (P.v.) chs15 promoter; SBF-1 binding site; For a compilation of related GT elements a
+             BOXBPSAS1	 AAACGACACCGTTT	14	S000225	   Box B in pea (P.s.) asparagine synthetase (AS1) gene; Found at -61; AS1 is negatively regulated by
+            BOXC'PSAS1	TCCCGGTACACACTTC	18	S000227	   Box C' in pea asparagine synthetase (AS1) gene; Found at -88; AS1 is negatively regulated by light;
+             BOXCPSAS1	    CTCCCAC	7	S000226	   Box C in pea (P.s.) asparagine synthetase (AS1) gene; Found at -45; AS1 is negatively regulated by
+              BOXICHS	GTCCMTCMAACCTAMC	16	S000228	   "Box I consensus sequence in the promoters of mustard and parsley chs genes; Essential for light re
+           BOXIINTPATPB	     ATAGAA	6	S000296	   "Box II" found in the tobacco (N.t.) plastid atpB gene promoter; Conserved in several NCII (noncons
+            BOXIIPCCHS	    ACGTGGC	7	S000229	   Core of "Box II/G box" found in the parsley (P.c.) chs genes; Essential for light regulation (Terza
+            BOXINTPATPB	AATTCCATAGAATAGA	21	S000295	   "Box I" found in the tobacco (N.t.) plastid atpB gene promoter; Conserved in several NCII (nonconse
+           BOXLCOREDCPAL	    ACCWWCC	7	S000492	   Consensus of the putative "core" sequences of box-L-like sequences in carrot (D.c.) PAL1 promoter r
+              BP5OSWX	    CAACGTG	7	S000436	                           OsBP-5 (a MYC protein) binding site in Wx promoter;
+             BS1EGCCR	     AGCGGG	6	S000352	   "BS1 (binding site 1)" found in E. gunnii Cinnamoyl-CoA reductase (CCR) gene promoter; nuclear prot
+             C1GMAUX28	TGAAAACAGTGAGTTA	16	S000326	   "C1"; DNase I protected sequence found in the soybean (G.m.) auxin responsive gene, Aux28, promoter
+           C1MOTIFZMBZ2	  TAACTSAGTTA	11	S000237	   "C1-motif"; Similar to Myb-box; Found in the promoter region of maize (Z.m.) Bronze2 ( glutathione
+             C2GMAUX28	AATAATAATAATAATA	20	S000327	   "C2"; DNase I protected sequence found in the soybean (G.m.) auxin responsive gene, Aux28, promoter
+             CAATBOX1	      CAAT	4	S000028	                      "CAAT promoter consensus sequence" found in legA gene of pea;
+             CAATBOX2	   GGCCAATCT	9	S000029	       "CAAT box" found in the 5' upstream region (-80) of many eukaryotic genes; GGC(or T)CAATCT;
+           CACGCAATGMGH3	    CACGCAAT	8	S000368	   Sequence found in D4 element in Soybean (G.m.) GH3 gene promoter; Showed constitutive activity with
+            CACGTGMOTIF	     CACGTG	6	S000042	   "CACGTG motif"; "G-box"; Binding site of Arabidopsis GBF4; C. roseus G-box binding factor 1 (CrGBF1
+            CACTFTPPCA1	      YACT	4	S000449	   Tetranucleotide (CACT) is a key component of Mem1 (mesophyll expression module 1) found in the cis-
+             CANBNNAPA	    CNAACAC	7	S000148	   Core of "(CA)n element" in storage protein genes in Brasica napus (B.n.); embryo- and endosperm-spe
+            CAREOSREP1	     CAACTC	6	S000421	   "CAREs (CAACTC regulatory elements)" found in the promoter region of a cystein proteinase (REP-1) g
+            CARG1ATAP3	GTTTACATAAATGGAA	18	S000347	   "CArG1" found in the Arabidopsis (A.t.) APETALA3 (AP3) gene promoter; Binding site of AP3/PI hetero
+            CARG2ATAP3	CTTACCTTTCATGGAT	18	S000348	   "CArG2" found in the Arabidopsis (A.t.) APETALA3 (AP3) gene promoter; Mutations in CArG2 result in
+            CARG3ATAP3	CTTTCCATTTTTAGTA	18	S000349	   "CArG3" found in the Arabidopsis (A.t.) APETALA3 (AP3) gene promoter; Binding site of AP3/PI hetero
+          CARGATCONSENSUS	   CCWWWWWWGG	10	S000404	   "CArG consensus" sequence found in the promoter of Arabidopsis (A.t.) SOC1 which is the MADS-box fl
+            CARGCW8GAT	   CWWWWWWWWG	10	S000431	   A variant of CArG motif (see S000404), with a longer A/T-rich core; Binding site for AGL15 (AGAMOUS
+             CARGNCAT	  CCWWWWWWWWGG	12	S000446	   Noncanonical CArG motif (CC-Wx8-GG) found in the promoter region of DTA1 (AtGA2ox6); A relevant cis
+           CATATGGMSAUR	     CATATG	6	S000370	   Sequence found in NDE element in soybean (G.m.) SAUR (Small Auxin-Up RNA) 15A gene promoter; Involv
+               CBFHV	     RYCGAC	6	S000497	   Binding site of barley (H.v.) CBF1, and also of barley CBF2; CBF = C-repeat (CRT) binding factors;
+            CCA1ATLHCB1	    AAMAATCT	8	S000149	   CCA1 binding site; CCA1 protein (myb-related transcription factor) interact with two imperfect repe
+             CCAATBOX1	     CCAAT	5	S000030	   Common sequence found in the 5'-non-coding regions of eukaryotic genes; "CCAAT box" found in the pr
+         CCTCGTGTCTCGMGH3	  CCTCGTGTCTC	11	S000369	   Sequence found in D1 element in Soybean (G.m.) GH3 gene promoter; Showed constitutive activity with
+            CDA1ATCAB2	    CAAAACGC	8	S000440	   CDA-1 (CAB2 DET1-associated factor 1) binding site in DtRE (dark response element) f of chlorophyll
+             CE3OSOSEM	   AACGCGTGTC	10	S000282	   "CE3 (Coupling Element 3)" found in the promoter of the rice (O.s.) Osem gene; Required for ABA-res
+            CELLCYCLESC	    CACGAAAA	8	S000031	   "cell cycle box" found in URS2 (-940/-200) of HO gene of S.cerevisiae; cell-cycle-specific activati
+         CEREGLUBOX1PSLEGA	   TGTTAAAGT	9	S000032	   "cereal glutenin box" in pea legumin gene (legA); sequence homologous to the cereal glutenin gene c
+         CEREGLUBOX2PSLEGA	    TGAAAACT	8	S000033	   "cereal glutenin box" in pea legumin gene (legA); sequence homologous to the cereal glutenin gene c
+         CEREGLUBOX3PSLEGA	   TGTAAAAGT	9	S000034	   "cereal glutenin box" in pea (P.s.) legumin gene (legA); sequence homologous to the cereal glutenin
+            CGACGOSAMY3	     CGACG	5	S000205	   "CGACG element" found in the GC-rich regions of the rice (O.s.) Amy3D and Amy3E amylase genes, but
+             CGCGBOXAT	     VCGCGB	6	S000501	   "CGCG box" recognized by AtSR1-6 (Arabidopsis thaliana signal-responsive genes); Multiple CGCG elem
+            CGF1ATCAB2	GATAAAGATTACTTCA	33	S000213	   CGF-1 binding site in the Arabidopsis (A.t.) cab2 gene promoter; CGF-1=CAB GATA Factor 1; Found at
+           CGTGTSPHZMC1	CGTGTCGTCCATGCAT	16	S000294	   Sequence found in the maize (Z.m.) C1 gene promoter; Located between -147 to -132; Containing Sph e
+          CIACADIANLELHC	   CAANNNNATC	10	S000252	                  Region necessary for circadian expression of tomato (L.e.) Lhc gene;
+           CMSRE1IBSPOA	    TGGACGG	7	S000511	   CMSRE-1 (Carbohydrate Metabolite Signal Responsive Element 1) found in the promoter of sweet potato
+        CONSERVED11NTZMATP1	  ACGTATTAAAA	11	S000301	   Conserved 11 nt sequence found in the maize (Z.m.) mitochondrial atp1 promoter; Located between -5
+              COREOS	AAKAATWYRTAWATAA	28	S000469	   CORE (coordinate regulatory element for antioxidant defense) conserved on the promoter regions of t
+             CPBCSPOR	     TATTAG	6	S000491	   The sequence critical for Cytokinin-enhanced Protein Binding in vitro, found in -490 to -340 of the
+             CPRFPCCHS	   CCACGTGGCC	10	S000313	   "BoxII"; Binding site of CPRF-1, -2, -3 and -4(Common Plant Regulatory Factor) in the parsley (P.c.
+           CRTDREHVCBF2	     GTCGAC	6	S000411	  This motif was erroneou HVCBF2,       Preferred sequence for AP2 transcriptional activator HvCBF2 of
+            CTRMCAMV35S	   TCTCTCTCT	9	S000460	   CT-rich motif (inverted GAGA) found in a 60-nucleotide region (S1) downstream of the transcription
+            CURECORECR	      GTAC	4	S000493	   GTAC is the core of a CuRE (copper-response element) found in Cyc6 and Cpx1 genes in Chlamydomonas;
+          CYTOSITECSHPRA	 AAGATTGATTGAG	13	S000261	   13 bp sequence of unknown function found in cucumber (C.s.) hydroxypyruvate reductase (hprA) gene p
+             D1GMAUX28	   ACAGTTACTA	10	S000328	   "D1"; DNase I protected sequence found in the soybean (G.m.) auxin responsive gene, Aux28, promoter
+             D2GMAUX28	  ATTTATATAAAT	12	S000329	   "D2"; DNase I protected sequence found in the soybean (G.m.) auxin responsive gene, Aux28, promoter
+             D3GMAUX28	  TATTTGCTTAA	11	S000330	   "D3"; DNase I protected sequence found in the soybean (G.m.) auxin responsive gene, Aux28, promoter
+             D4GMAUX28	   TAGTGCTGT	9	S000331	   "D4"; DNase I protected sequence found in the soybean (G.m.) auxin responsive gene, Aux28, promoter
+             DE1PSPRA2	  GGATTTTACAGT	12	S000379	   DE1PSPRA2 "DE1" found in the pea(P.S) pra2 gene promoter; Involved in pra2 down-regulation by phyto
+             DOFCOREZM	      AAAG	4	S000265	   Core site required for binding of Dof proteins in maize (Z.m.); Dof proteins are DNA binding protei
+           DPBFCOREDCDC3	    ACACNNG	7	S000292	   A novel class of bZIP transcription factors, DPBF-1 and 2 (Dc3 promoter-binding factor-1 and 2) bin
+             DR5GMGH3	  CCTTTTGTCTC	11	S000337	   "DR5"; A highly active synthetic auxin response element; Created by site-directed mutations in a na
+          DRE1COREZMRAB17	    ACCGAGA	7	S000401	   "DRE1" core found in maize (Z.M.) rab17 gene promoter; "DRE1" was protected, in in vivo footprintin
+          DRE2COREZMRAB17	     ACCGAC	6	S000402	   "DRE2" core found in maize (Z.M.) rab17 gene promoter; "DBF1" and "DBF2" bound to "DRE2"; rab17 is
+           DRECRTCOREAT	     RCCGAC	6	S000418	   Core motif of DRE/CRT (dehydration-responsive element/C-repeat) cis-acting element found in many ge
+          DREDR1ATRD29AB	   TACCGACAT	9	S000152	   Related to responsiveness to drought, low-temperature or high-salt stress; See S000153, S000157; Bi
+            E2F1OSPCNA	    GCGGGAAA	8	S000396	   "re2f-1" found in the promoter of rice PCNA gene; Located between -142 and -135; "te2f-1" found in
+             E2FANTRNR	    TTTCCCGC	8	S000366	   "E2Fa element" found in the tobacco (N.t.) RNR (Ribonucleotide reductase) gene promoter and  in the
+               E2FAT	   TYTCCCGCC	9	S000417	   "E2F-binding site" found in many potential E2F target genes; most potential E2F targets identified
+             E2FBNTRNR	    GCGGCAAA	8	S000367	   "E2Fb" found in the tobacco (N.t.) RNR (Ribonucleotide reductase) gene promoter; Binding site of to
+           E2FCONSENSUS	    WTTSSCSS	8	S000476	   "E2F consensus sequence" of all different E2F-DP-binding motifs that were experimentally verified i
+            EBOXBNNAPA	     CANNTG	6	S000144	   E-box of napA storage-protein gene of Brassica napus (B.n.); See S000042 (CACGTGMOTIF); see S000407
+             EECCRCAH1	    GANTTNC	7	S000494	   "EEC"; Consensus motif of the two enhancer elements, EE-1 and EE-2, both found in the promoter regi
+            EIN3ATERF1	GGATTCAAGGGGCATG	28	S000332	   EIN3 (Ethylene-insensitive 3) binding site found in the promoter of the Arabidopsis (A.t.) ERF1 (Et
+          ELEMENT1GMLBC3	GATATATTAATATTTT	24	S000319	   "Element 1" found in the promoter of soybean (G.m.) leghaemoglobin lbc3 gene; Binding site of nucle
+          ELEMENT2GMLBC3	CTTAAATTATTTATTT	16	S000320	   "Element 2" found in the promoter of soybean (G.m.) leghaemoglobin lbc3 gene; Binding site of nucle
+            ELRE1PCPAL1	CTCCAACAAACCCCTT	17	S000306	   One of two elicitor (ELRE) and light response elements (LRE) found in the parsley (P.c.) phenylalan
+            ELRE2PCPAL1	 ATTCTCACCTACCA	14	S000307	   One of two elicitor (ELRE) and light response elements (LRE) found in the parsley (P.c.) phenylalan
+           ELRECOREPCRP1	     TTGACC	6	S000142	   ElRE (Elicitor Responsive Element) core of parsley (P.c.) PR1 genes; consensus sequence of elements
+            ELRENTCHN50	  GGTCANNNAGTC	12	S000155	   Elicitor-responsive element (ElRE); Found in tobacco (N. t.) basic class I chitinase gene (CHN50);
+             EMBP1TAEM	    CACGTGGC	8	S000119	   Binding site of trans-acting factor EMBP-1; wheat (T.a.) Em gene; See S000015; Binding site of ABFs
+             EMHVCHORD	    TGTAAAGT	8	S000452	   "Endosperm motif (EM)" found in the promoter of barley (H.v.) c-hordein gene; Involved in the nitro
+              EREGCC	  TAAGAGCCGCC	11	S000036	   "GCC box" in "ERE (ethylene responsive element)"; Ethylene-responsive  region of tobacco (N.t.) chi
+              ERELEE4	    AWTTCAAA	8	S000037	   "ERE (ethylene responsive element)" of tomato (L.e.) E4 and carnation GST1 genes; GST1 is related t
+             ESPASGL01	 ACATGTCATCATGT	14	S000509	   "ESP (endosperm specificity palindrome)" element found in the promoter of oat (A.s.) globulin gene
+             EVENINGAT	   AAAATATCT	9	S000385	   "Evening element" found 46 times in the promoters of 31 cycling genes in Arabidopsis thaliana (Harm
+             GADOWNAT	    ACGTGTC	7	S000438	   Sequence present in 24 genes in the GA-down regulated d1 cluster (106 genes) found in Arabidopsis s
+            GAGA8HVBKN3	GAGAGAGAGAGAGAGA	16	S000427	   "GA octodinucleotide repeat" found in intron IV of the barley (H.v.) gene Bkn3; Binding site for GA
+            GAGAGMGSA1	GAGAGAGAGAGAGAGA	18	S000405	   "GAGA element" found in the promoter of the heme and chlorophyll synthesis gene Gsa1 in soybean (G.
+            GARE1OSREP1	    TAACAGA	7	S000419	   "Gibberellin-responsive element (GARE)" found in the promoter region of a cystein proteinase (REP-1
+               GARE2	 RTAACARANTCYGG	14	S000165	   Putative gibberellin responsive element; Consensus sequence of GA inducible alpha-amylase genes fro
+            GARE2OSREP1	    TAACGTA	7	S000420	   "Gibberellin-responsive element (GARE)" found in the promoter region of a cystein proteinase (REP-1
+            GARE4HVEPB1	GTAACAGAATGCTGG	15	S000297	   "GARE-4" found in the barley (H.v.) EPB-1 (cysteine proteinase) gene promoter; Located between -142
+              GAREAT	    TAACAAR	7	S000439	   GARE (GA-responsive element); Occurrence of GARE in GA-inducible, GA-responsible, and GA-nonrespons
+            GAREHVAMY1	GGCCGATAACAAACTC	21	S000038	   "GARE (gibberellic acid responsive element)" of barley (H.v.) alpha-amylase gene (Amy 1/6-4); GA3;
+              GATABOX	      GATA	4	S000039	   "GATA box"; GATA motif in CaMV 35S promoter; Binding with ASF-2; Three GATA box repeats were found
+             GBOX10NT	   GCCACGTGCC	10	S000272	   One of 11 G-box sequences in tobacco (N.t.); Required for high-level constitutive expression in see
+            GBOXLERBCS	   MCACGTGGC	9	S000041	   "G box"; Conserved sequence upstream of light-regulated genes; Sequence found in the promoter regio
+              GBOXPC	   ACCACGTGGC	10	S000324	   "G box"; Binding site of parsley (P.c.) cytosolic G-box binding factors (cytosolic GBFs); Cytosolic
+           GBOXRELOSAMY3	  CTACGTGGCCA	11	S000206	        G box-related element found in Amy3D (amylase) promoter of rice (O.s.); Similar to ABRE;
+            GBOXSORBCS1	   TCCACGTGGT	10	S000380	   "G-box" found in the spinach(S.O.) RBCS-1 gene promoter; Located between -219 and -212; G-box trime
+         GCAACREPEATZMZEIN	   GCAACGCAAC	10	S000027	   "GCAAC repeat" found in the 22bp recognition site for beta-1 factor in the promoter of beta-zein (p
+           GCBP2ZMGAPC4	   GTGGGCCCG	9	S000351	   Binding site of tobacco nuclear factor (GCBP-2) found in the maize (Z.m.) GapC4 (Glyceraldehyde-3-p
+              GCCCORE	     GCCGCC	6	S000430	   Core of GCC-box found in many pathogen-responsive genes such as PDF1.2, Thi2.1, and PR4; Has been s
+            GCN4OSGLUB1	    TGAGTCA	7	S000277	   "GCN4 motif" found in GluB-1 gene in rice (O.s.); Required for endosperm-specific expression; See S
+          GGTCCCATGMSAUR	    GGTCCCAT	8	S000360	   Sequence found in NDE element in Soybean (G.m.) SAUR (Small Auxin-Up RNA) 15A gene promoter; Involv
+            GLMHVCHORD	   RTGASTCAT	9	S000451	   "GLM (GCN4-like motif)" found in the promoter of barley (H.v.) B1- and c-hordein gene; Involved in
+            GLUTAACAOS	  AACAAACTCTAT	12	S000045	   "glutelin common motif"; "AACA motif"; Conserved in all member of rice (0.s.) glutelin; -74 to -64;
+          GLUTEBOX1OSGT2	ATATCATGAGTCACTT	18	S000046	     "Box 1" of rice (O.s.) glutelin Gt2 gene family promoter regions; nuclear factor binding site;
+          GLUTEBOX1OSGT3	TATCTAGTGAGTCACT	19	S000128	        "Box 1" of rice (O.s.) glutelin Gt3 gene family promoter region; See S000128 GLUTEBOX2A;
+          GLUTEBOX2OSGT2	  TCCGTGTACCA	11	S000047	             "Box II" of rice (O.s.) glutelin Gt2 gene family; nuclear factor binding site;
+          GLUTEBOX2OSGT3	CTTTTGTGTACCTTA	15	S000129	        "Box 2" of rice (O.s.) glutelin Gt3 gene family promoter region; See S000128 GLUTEBOX1A;
+            GLUTEBP1OS	 AAGCAACACACAAC	14	S000048	   "Glutelin BP-1"; Binding site in the promoter region of glutelin Gt3 gene family of nuclear factor
+            GLUTEBP2OS	ATGCTCAATAGATATA	19	S000049	                  "Glutelin BP-2"; Binding with nuclear factors from developing seeds;
+            GLUTECOREOS	  CTTTCGTGTAC	11	S000050	   Core site required for binding of the trans-acting factor in the promoter region of rice (O.s.) glu
+            GMHDLGMVSPB	   CATTAATTAG	10	S000372	   Binding site of the soybean homeodomein leucine zipper proteins (GmHdl56, GmHdl57); Found in the ph
+            GRAZMRAB17	  CACTGGCCGCCC	12	S000150	   "GRA"; GC-rich rab activator; Found in the promoter of ABA responsive rab17 gene from maize (Z.m.);
+            GRAZMRAB28	   CATGCCGCC	9	S000220	   "GRA"; "GC-rich rab activator"; Found in the promoter of ABA responsive rab28 gene from maize (Z.m.
+          GREGIONNTPRB1B	TGGCGGCTCTTATCTC	24	S000364	   "G region" found in tobacco (N.t.) PRB-1b gene promoter; Located at -201 to -178; Binding site of n
+           GT1CONSENSUS	     GRWAAW	6	S000198	   Consensus GT-1 binding site in many light-regulated genes, e.g., RBCS from many species, PHYA from
+              GT1CORE	     GGTTAA	6	S000125	   Critical for GT-1 binding to box II of rbcS; See S000051 GT1MOTIF1;  For a compilation of related G
+            GT1GMSCAM4	     GAAAAA	6	S000453	   "GT-1 motif" found in the promoter of soybean (Glycine max) CaM isoform, SCaM-4; Plays a role in pa
+          GT1MOTIFPSRBCS	  KWGTGRWAAWRW	12	S000051	   "GT-1 motif"; "Consensus sequence of rbcS BOX II, III, II', III'"; "GT-1 box"; 5' upstream region (
+             GT2OSPHYA	   GCGGTAATT	9	S000207	   GT-2 (a rice nuclear protein) binding site in a rice (O.s.) phyA promoter; phyA gene are transcript
+             GTGANTG10	      GTGA	4	S000378	   "GTGA motif" found in the promoter of the tobacco (N.t.) late pollen gene g10 which shows homology
+        HBOXCONSENSUSPVCHS	CCTACCNNNNNNNCT	15	S000200	   "H-box"; Consensus sequence of H-boxes found in bean (Phaseolus vulgaris) chs15 gene promoter; Esse
+            HBOXPVCHS15	CCTACCNNNNNNNCTN	20	S000361	   Binding site of two bean protein factors, KAP-1 and KAP-2; KAP-1 is a 97 kDa polypeptide; KAP-2 com
+           HDMOTIFPCPR2	  CTAATTGTTTA	11	S000233	   HD (homeodomain) protein target site in parsley (P.c.) pathogenesis-related protein 2 (PR2); A pote
+           HDZIP2ATATHB2	   TAATMATTA	9	S000373	   Binding site of the Arabidopsis (A.T.) homeobox gene (ATHB-2) found in its own promoter; Located be
+            HDZIPIIIAT	  GTAATSATTAC	11	S000475	   Ath b-9 HD-Zip (HD-Zip-9), a member of a small family of HD-Zip proteins (HD-ZIP III), in Arabidops
+            HEXAMERATH4	     CCGTCG	6	S000146	                    hexamer motif of Arabidopsis thaliana (A.t.) histone H4 promoter;
+               HEXAT	    TGACGTGG	8	S000334	   "Hex motif"; Binding site of Arabidopsis (A.t.) bZIP protein TGA1 and G box binding factor GBF1; TG
+          HEXMOTIFTAH3H4	     ACGTCA	6	S000053	   "hexamer motif" found in promoter of wheat (T.a.) histone genes H3 and H4; CaMV35S; NOS; Binding wi
+                HSE	 CTNGAANNTTCNAG	14	S000054	   "HSE (heat shock response element)"; consensus sequence found in the promoter regions of heat shock
+        HSELIKENTACIDICPR1	CNNGAANNNTTCNNG	15	S000056	    "HSE-like motif" in -56 region of acidic PR1 gene of tobacco (N.t.); not found in basic PR1 gene;
+           HSELIKENTGLN2	   AGGAATTCCT	10	S000057	     "HSE-like sequence" in 5' upstream region of beta-1,3-glucanase gene (GLN2) of tobacco (N.t.);
+           HSRENTHSR203J	  CAAAATTTTGTA	12	S000466	   "HSRE(HSR203 responsive element)" in tobacco (N.t.) responsible for the marked induction of the HSR
+               HY5AT	  TGACACGTGGCA	12	S000345	   "G box"; Binding site of Arabidopsis bZIP protein HY5; HY5 is constitutively nuclear localized and
+               IBOX	     GATAAG	6	S000124	   "I box"; "I-box"; Conserved sequence upstream of light-regulated genes; Sequence found in the promo
+             IBOXCORE	     GATAA	5	S000199	   "I box"; "I-box"; Conserved sequence upstream of light-regulated genes; Conserved sequence upstream
+            IBOXCORENT	    GATAAGR	7	S000424	   "I-box core motif" in the CAMs (conserved DNA modular arrays) associated with light-responsive prom
+         IBOXLSCMCUCUMISIN	 AGATATGATAAAA	13	S000423	   "I-box-like sequence" found in the region (from -254 to -215) of cucumisin (a subtilisin-like serin
+            IDE1HVIDS2	ATCAAGCATGCTTCTT	18	S000463	   IDE1 (iron-deficiency-res36 of barley IDS2 (iron deficiency specific clone 2) gene promoter; See Id
+            IDE2HVIDS2	TTGAACGGCAAGTTTC	27	S000464	   IDE2 (iron-deficiency-res36 of barley IDS2 (iron deficiency specific clone 2) gene promoter; See Id
+            IDRSZMFER1	 CACGAGSCCKCCAC	14	S000445	  "IDRS" (Iron-Dependent Re nd Arabidopsis ferritin genes (Fer1); IDRS is responsible for conditions;
+            INRNTPSADB	    YTCANTYY	8	S000395	   "Inr (initiator)" elements found in the tobacco psaDb gene promoter without TATA boxes; Light-respo
+            INTRONLOWER	     TGCAGG	6	S000086	   "3' intron-exon splice junctions"; Plant intron lower sequence; Consensus sequence for plant intron
+            INTRONUPPER	   MAGGTAAGT	9	S000085	   "5' exon-intron splice junctions" of plant introns; Plant intron upper sequence; Consensus sequence
+              IRO2OS	    CACGTGG	7	S000505	   OsIRO2-binding core sequence; "G-box plus G"; Transcription factor OsIRO2 is induced exclusively by
+            JASE1ATOPR1	   CGTCAATGAA	10	S000388	   "JASE1"found in promoter of Arabidopsis thaliana 12-oxo-phytodienoic acid-10,11-reductase (OPR1) ge
+            JASE2ATOPR1	 CATACGTCGTCAA	13	S000389	   "JASE2"found in promoter of Arabidopsis thaliana 12-oxo-phytodienoic acid-10,11-reductase (OPR1) ge
+             JERECRSTR	CTCTTAGACCGCCTTC	24	S000384	   "JERE" (jasmonate- and elicitor-responsive element) found in the periwinkle(C.R.) strictosidine syn
+            L1BOXATPDF1	    TAAATGYA	8	S000386	   "L1 box" found in promoter of Arabidopsis thaliana (A.t.) PROTODERMAL FACTOR1 (PDF1) gene; Located
+             L1DCPAL1	  ATTCACCTACCC	12	S000504	   "L1" element, found in PAL1 promoter in carrot (Daucus carota), is a protoplastization (dilution) r
+             L4DCPAL1	  AATCTCCAACCA	12	S000503	   "L4" element, found in PAL1 promoter in carrot (Daucus carota), is a UV-B responsive element; L4 co
+            LBOXLERBCS	  AAATTAACCAA	11	S000126	     "L box"; Conserved sequence found in rbcS upstream sequences of both tomato (L.e.) and tobacco;
+             LEAFYATAG	    CCAATGT	7	S000432	   Target sequence of LEAFY in the intron of AGAMOUS gene in Arabidopsis; See Lohmann et al. Cell 105:
+            LECPLEACS2	    TAAAATAT	8	S000465	   Core element in LeCp (tomato Cys protease) binding cis-element (from -715 to -675) in LeAcs2 gene;
+          LEGUMINBOXLEGA5	TCCATAGCCATGCAWR	28	S000060	                       "legumin box" in legA 5' legumin gene promoter in legumin;
+          LREBOX2PSRBCS3	TGTGTGGTTAATATG	15	S000061	   "LRE (light-responsive element) Box II" of pea (P.s.) rbcS-3A gene; GT-1 binding; "GT-motif"; "GT1
+          LREBOX3PSRBCS3	ACTATTTTCACTATC	15	S000062	   "LRE (light-responsive element) Box III" of pea (P.s.) rbcS-3A gene; GT-1 binding;  For a compilati
+          LREBOXIIPCCHS1	   TCCACGTGGC	10	S000303	   "BoxII"; Light responsive element (LRE) found in the parsley (P.c.) CHS-1 (chalcone synthase-1) gen
+           LREBOXIPCCHS1	   AACCTAACCT	10	S000302	   "BoxI"; Light responsive element (LRE) found in the parsley (P.c.) CHS-1 (chalcone synthase-1) gene
+             LRENPCABE	    ACGTGGCA	8	S000231	     "LRE"; A positive light regulatory element in tobacco (N.p.) CAB (cab-E) gene; Located at -241;
+             LS5ATPR1	   TCTACGTCAC	10	S000323	   "LS5"; A negative regulatory element found in the Arabidopsis (A.t.) PR-1 gene promoter; Binding si
+             LS7ATPR1	   ACGTCATAGA	10	S000322	   "LS7"; A positive salicylic acid-inducible element found in the Arabidopsis (A.t.) PR-1 gene promot
+           LTRE1HVBLT49	     CCGAAA	6	S000250	   "LTRE-1" (low-temperature-responsive element) in barley (H.v.) blt4.9 gene promoter; A new LTRE; A
+            LTREATLTI78	    ACCGACA	7	S000157	   Putative low temperature responsive element (LTRE); Found in Arabidopsis thaliana (A.t.) low-temper
+          LTRECOREATCOR15	     CCGAC	5	S000153	   Core of low temperature responsive element (LTRE) of cor15a gene in Arabidopsis (A.t.); A portion o
+             MARABOX1	   AATAAAYAAA	10	S000063	           "A-box" found in SAR(scaffold attachment region; or matrix attachment region, MAR);
+              MARARS	  WTTTATRTTTW	11	S000064	                                "ARS element"; Motif found in SAR (MAR);
+              MARCEN3	TGTTTWTGNTTTCCGA	25	S000065	                    "CEN III element"; Motif found in SAR (MAR); centromere element;
+              MARTBOX	   TTWTWTTWTT	10	S000067	       "T-Box"; Motif found in SAR (scaffold attachment region; or matrix attachment region, MAR);
+            MEJARELELOX	GATACANNAATNTGAT	17	S000151	   MeJa-responsive element (MeJaRE) in tomato (L. e.) lipoxygenase (LOX) gene; Related to tomato lipox
+            MNF1ZMPPC1	    GTGCCCTT	8	S000251	   "MNF1" binding site in maize (Z.m.) Ppc1 (phosphoenolpyruvate carboxylase) gene promoter; Involved
+             MREATCHS	  TCTAACCTACCA	12	S000356	   "MREAtCHS (MRE = Myb Recognition Element)" found in the LRU (light-responsive unit) in Arabidopsis
+           MRNA3ENDTAH3	   AATGGAAATG	10	S000069	   Cis element in 3' end region of wheat (T.a.) histone H3 mRNA; 3' end formation; Also found in histo
+          MRNASTA1CRPSBD	  CUCUUTGUTTUU	12	S000274	   mRNA stability determinant found in 5'-UTR of psbD mRNA of Chlamydomonas reinhardtii (C.r.); Requir
+          MRNASTA2CRPSBD	    UGAGUUG	7	S000275	   mRNA stability determinant found in 5'-UTR of psbD mRNA of Chlamydomonas reinhardtii (C.r.); Requir
+             MSACRCYM	   AGACCGTTG	9	S000236	   "MSA (M-specific activator)" motif in Catharanthus roseus (C.r.) B-type cyclin (CYM) promoter; Esse
+              MYB1AT	     WAACCA	6	S000408	   MYB recognition site found in the promoters of the dehydration-responsive gene rd22 and many other
+             MYB1LEPR	    GTTAGTT	7	S000443	   Tomato Pti4(ERF) regulates defence-related gene expression via GCC box and non-GCC box cis elements
+              MYB26PS	    GTTAGGTT	8	S000182	   Myb26 binding site; Myb26 recognizes the c-Myb and P-box-like binding sites representing cis-elemen
+              MYB2AT	     TAACTG	6	S000177	   Binding site for ATMYB2, an Arabidopsis MYB homolog;  ATMYB2 binds oligonucleotides that contained
+          MYB2CONSENSUSAT	     YAACKG	6	S000409	   MYB recognition site found in the promoters of the dehydration-responsive gene rd22 and many other
+             MYBATRD22	    CTAACCA	7	S000175	   Binding site for MYB (ATMYB2) in dehydration-responsive gene, rd22; MYB binding site in rd22 gene o
+              MYBCORE	     CNGTTR	6	S000176	   Binding site for all animal MYB and at least two plant MYB proteins ATMYB1 and ATMYB2, both isolate
+          MYBCOREATCYCB1	     AACGG	5	S000502	   "Myb core" in the 18 bp sequence which is able to activate reporter gene without leading to M-phase
+              MYBGAHV	    TAACAAA	7	S000181	   Central element of gibberellin (GA) response complex (GARC) in high-pI alpha-amylase gene in barley
+             MYBPLANT	    MACCWAMC	8	S000167	   Plant MYB binding site; Consensus sequence related to box P in promoters of phenylpropanoid biosynt
+              MYBPZM	     CCWACC	6	S000179	   Core of consensus maize P (myb homolog) binding site; W=A/T; 6 bp core; Maize P gene specifies red
+              MYBST1	     GGATA	5	S000180	   Core motif of MybSt1 (a potato MYB homolog) binding site; MybSt1 cDNA clone was isolated by using C
+             MYCATERD1	     CATGTG	6	S000413	   MYC recognition sequence (from -466 to -461) necessary for expression of erd1 (early responsive to
+             MYCATRD22	     CACATG	6	S000174	   Binding site for MYB (ATMYB2) in dehydration-responsive gene, rd22; MYB binding site in rd22 gene o
+          MYCCONSENSUSAT	     CANNTG	6	S000407	   MYC recognition site found in the promoters of the dehydration-responsive gene rd22 and many other
+           NAPINMOTIFBN	    TACACAT	7	S000070	   Sequence found in 5' upstream region (-6, -95, -188) of napin (2S albumin) gene in Brassica napus (
+             NDEGMSAUR	CCATATGCCATGTCTC	30	S000359	   NDEGMSAUR "NDE" found in Soybean (G.m.) SAUR (Small Auxin-Up RNA) 15A gene promoter; Required for a
+             NODCON1GM	     AAAGAT	6	S000461	             One of two putative nodulin consensus sequences; See also S000462 (NODCON2GM);
+             NODCON2GM	     CTCTT	5	S000462	             One of two putative nodulin consensus sequences; See also S000461 (NODCON1GM);
+            NONAMERATH4	   AGATCGACG	9	S000147	                    Nonamer motif of Arabidopsis thaliana (A.t.) histone H4 promoter;
+        NONAMERMOTIFTAH3H4	   CATCCAACG	9	S000071	               "Nonamer motif" found in promoter of wheat (T.a.) histone genes H3 and H4;
+             NRRBNEXTA	    TAGTGGAT	8	S000242	   "NRR (negative regulatory region)" in promoter region of Brassica napus (B.n.) extA extensin gene;
+           NTBBF1ARROLB	     ACTTTA	6	S000273	   NtBBF1(Dof protein from tobacco) binding site in Agrobacterium rhizogenes (A.r.) rolB gene; Found i
+             O2F1BE2S1	   TCCACGTCGA	10	S000162	   opaque-2 recognition site F1 in Bertholletia excelsa (Brazil nut tree) 2S storage protein gene (be2
+             O2F2BE2S1	   GCCACCTCAT	10	S000163	   opaque-2 recognition site F2 in Bertholletia excelsa (Brazil nut tree) 2S storage protein gene (be2
+             O2F3BE2S1	   TCCACGTACT	10	S000164	   opaque-2 recognition site F3 in Bertholletia excelsa (Brazil nut tree) 2S storage protein gene (be2
+            OBF5ATGST6	ATCTTATGTCATTGAT	26	S000304	   "OBF5 (ocs element binding factor 5)" binding site found in the Arabidopsis (A.t.) GST6 gene promot
+            OBP1ATGST6	  TACACTTTTGG	11	S000305	   OBP1, 4, and 5 (OBF binding protein) binding site found in the Arabidopsis (A.t.) GST6 gene promote
+        OCETYPEIIINTHISTONE	GATCCGCGNNNNNNNN	30	S000269	   "Type III element"; Oct-containing composite element Type III found in tobacco (N.t.) histone gene
+        OCETYPEIINTHISTONE	  TCACGCGGATC	11	S000268	   "Type II element"; Oct-containing composite element Type II found in tobacco (N.t.) histone gene pr
+         OCETYPEINTHISTONE	CCACGTCANCGATCCG	18	S000267	   "Type I element"; Oct-containing composite element Type I found in tobacco (N.t.) histone gene prom
+           OCSELEMENTAT	TGACGYAAGSRMTKAC	20	S000158	   "OCS element" in octopine synthase gene (OCS) of Ti-plasmid of Agrobacterium (A.t.); Binding with n
+          OCSENHANMOTIFAT	ACGTAAGCGCTTACGT	16	S000074	   "OCS enhancer element" in octopine synthase gene (OCS) of Ti-plasmid of Agrobacterium tumefaciens (
+             OCSGMGH24	CGGTTTACGTAATCTC	24	S000346	   "OCS element" found in the soybean (G.m) GH2/4 gene promoter; Required for auxin and salycylic acid
+            OCSGMHSP26A	TGATGTAAGAGATTAC	20	S000357	   Ocs element found in soybean (Glycine max) heat shock gene (Gmhsp26-A) promoter; The element is a f
+        OCTAMERMOTIFTAH3H4	    CGCGGATC	8	S000076	   "Octamer motif" found in promoter of wheat (T.a.) histone genes H3 and H4, and corn histone genes H
+            OCTAMOTIF2	    CGCGGCAT	8	S000116	   Octamer motif found in histone-gene-specific consensus sequences; 200 base upstream from the initia
+           OPAQUE2ZM22Z	   TCCACGTAGA	10	S000017	   Opaque-2 (O2) target sequence in maize (Z.m.) 22- and 27-kD zein promoters; "ACGT motif"; Related t
+           OPAQUE2ZMB32	   GATGAYRTGG	10	S000077	   "opaque-2 binding site" of maize (Z.m.) b-32 (type I ribosome-inactivating protein gene; O2; O2S; O
+          OSE1ROOTNODULE	     AAAGAT	6	S000467	   One of the consensus sequence motifs of organ-specific elements (OSE) characteristic of the promote
+          OSE2ROOTNODULE	     CTCTT	5	S000468	   One of the consensus sequence motifs of organ-specific elements (OSE) characteristic of the promote
+               P1BS	    GNATATNC	8	S000459	   PHR1-binding sequence found in the upstream regions of phosphate starvation responsive genes from s
+             PALBOXAPC	     CCGTCC	6	S000137	   Box A; Consensus; One of three putative cis-acting elements (boxes P, A, and L) of phenylalanine am
+             PALBOXLPC	  YCYYACCWACC	11	S000138	   Box L; Consensus; One of three putative cis-acting elements (boxes P, A, and L) of phenylalanine am
+             PALBOXPPC	 YTYYMMCMAMCMMC	14	S000136	   Box P; Consensus; One of three putative cis-acting elements (boxes P, A, and L) of phenylalanine am
+         PALINDROMICCBOXGM	    TGACGTCA	8	S000255	   Palindromic C-box in soybean (G.m.); bZIP factors, STGA1 and STFs (STF1 and STF2) found in soybean
+             PASNTPARA	TTACGCAAGCAATGAC	20	S000336	   "pas"; as-1-related element found in the tobacco (N.t.) parA gene promoter; Involved in Cadmium res
+            PE1ASPHYA3	GAAATAGCAAATGTTA	22	S000196	   PE1; Positively acting element found at -381 to -348 of oat (A.s.) phyA3 promoter; A general positi
+            PE2FNTRNR1A	    ATTCGCGC	8	S000455	   "pE2F (proximal E2F elemen)" at -143bp of tobacco (N.t.) RNR1a promoter; E2F factors involved in ge
+            PE3ASPHYA3	CAGCTCCCATGGCTCT	31	 S000197	   PE3; Positively acting element found at -111 to -81 (Bruce et al., 1991) of oat (A.s.) phyA3 promot
+             PIATGAPB	    GTGATCAC	8	S000381	   "PI" found in the Arabidopsis thaliana(A.T.) GAPB gene promoter; Located between -157 and -150; Mut
+             PIIATGAPB	TTGGTTTTGATCAAAA	20	S000382	   "PII" found in the Arabidopsis thaliana(A.T.) GAPB gene promoter; Located between -69 and -50; Muta
+             POLASIG1	     AATAAA	6	S000080	   "PolyA signal"; poly A signal found in legA gene of pea, rice alpha-amylase; -10 to -30 in the case
+             POLASIG2	    AATTAAA	7	S000081	   "PolyA signal"; poly A signal found in rice alpha-amylase; -10 to -30 in the case of animal genes.
+             POLASIG3	     AATAAT	6	S000088	               "Plant polyA signal"; Consensus sequence for plant polyadenylation signal;
+          POLLEN1LELAT52	     AGAAA	5	S000245	   One of two co-dependent regulatory elements responsible for pollen specific activation of tomato (L
+          POLLEN2LELAT52	   TCCACCATA	9	S000246	   One of two co-dependent regulatory elements responsible for pollen specific activation of tomato (L
+              PR2GCNT	  TAARAGCCGCC	11	S000089	   "GC element" conserved in the 5' upstream regions of group 2 PR protein genes (beta-1,3-glucanase (
+            PREATPRODH	     ACTCAT	6	S000450	   "PRE (Pro- or hypoosmolarity-responsive element) found in the promoter region of  proline dehydroge
+          PRECONSCRHSP70A	SCGAYNRNNNNNNNNN	24	S000506	   Consensus sequence of PRE (plastid response element) in the promoters of HSP70A in Chlamydomonas; I
+          PREMOTIFNPCABE	  ACCGGCCCACTT	12	S000230	   Motif sequence repeated many times in two positive regulatory elements, PRE1 (-1554 to -1182) and P
+            PROLAMINBOX	CACATGTGTAAAGGT	15	S000091	   "Prolamin Box"; -330 consensus sequence found in all zein genes; prolamin type consensus sequence f
+        PROLAMINBOXOSGLUB1	    TGCAAAG	7	S000354	   "Prolamine box" found in the rice (O.s.) GluB-1 gene promoter; Involved in quantitative regulation
+            PROXBBNNAPA	    CAAACACC	8	S000263	   "prox B (proximal portion of B-box) found in napA gene of Brassica napus (B.n.); CA-rich sequence;
+          PSREGIONZMZM13	TCGGCCACTATTTCTA	32	S000253	          Pollen specific (PS) region in maize (Z.m.) ZM13 gene promoter; Found at -84 to -53;
+        PYRIMIDINEBOXHVEPB1	    TTTTTTCC	8	S000298	   "Pyrimidine box" found in the barley (H.v.) EPB-1 (cysteine proteinase) gene promoter; Located betw
+       PYRIMIDINEBOXOSRAMY1	   A CCTTTT	6	 S000259	   Pyrimidine box found in rice (O.s.) alpha-amylase (RAmy1A) gene; Gibberellin-respons cis-element of
+             QARBNEXTA	    AACGTGT	7	S000244	   "QAR (quantitative activator region)" in promoter region of Brassica napus (B.n.) extA extensin gen
+          QELEMENTZMZM13	     AGGTCA	6	S000254	   "Q(quantitative)-element" in maize (Z.m.) ZM13 gene promoter; Found at -107 to -102; Involved in ex
+              RAV1AAT	     CAACA	5	S000314	   Binding consensus sequence of Arabidopsis (A.t.) transcription factor, RAV1; RAV1 specifically bind
+              RAV1BAT	     CACCTG	6	S000315	   Binding consensus sequence of an Arabidopsis (A.t.) transcription factor, RAV1; RAV1 specifically b
+            RBCSBOX2PS	 GTGTGGTTAATATG	14	S000094	   "rbcS box II"; 5' upstream region (-151) of pea (P.s.) rbcS gene; Binding with trans factor GT-1; o
+            RBCSBOX3PS	  ATCATTTTCACT	12	S000095	   "rbcS box III"; 5' upstream region (-114) of pea (P.s.) rbcS gene; binding with trans factor GT-1;
+           RBCSCONSENSUS	    AATCCAA	7	S000127	                         "rbcS general consensus sequence"; AATCCAA or AATCCAAC;
+            RBCSGBOXPS	  CACATGGCACT	11	S000096	   "rbcS G-box"; 5'upstream region (-211) of pea rbcS gene; binding with trans factor GBF (CG-1); Ligh
+             RBENTGA3	  TCCAACTTGGA	11	S000358	   "rbe (RSG binding element)" found in the tobacco (N.t.) GA3 gene promoter; Binding site of RSG (Rep
+            RE1ASPHYA3	  CATGGGCGCGG	11	S000195	   RE1 (putative repressor element) responsible for Pfr-directed repression of oat (A.s.) phyA3 phytoc
+          REALPHALGLHCB21	     AACCAA	6	S000362	   "REalpha" found in Lemna gibba Lhcb21 gene promoter; Located at -134 to -129; Binding site of prote
+          REBETALGLHCB21	     CGGATA	6	S000363	   "REbeta" found in Lemna gibba Lhcb21 gene promoter; Located at -114 to -109; A GATA sequence create
+           REGION1OSOSEM	CGGCGGCCTCGCCACG	16	S000300	   "region 1" ABRE-like sequence found in rice (O.s.) Osem gene promoter; Important for regulation by
+              RGATAOS	   CAGAAGATA	9	S000191	   R-GATA (GATA motif binding factor) binding site; GATA motif is found at -143 to -135 of RTBV promot
+           RHERPATEXPA7	     KCACGW	6	S000512	   "Right part of RHEs (Root Hair-specific cis-Elements)" conserved among the Arabidopsis thaliana A7
+              RNFG1OS	  GATCATCGATC	11	S000188	   RNFG1 binding site; Box I; RNFG1 is one of two Rice Nuclear Factors required for phloem-specific ge
+              RNFG2OS	CCAGTGTGCCCCTGG	15	S000189	   RNFG2 binding site; Box II; RNFG2 is one of two Rice Nuclear Factors required for phloem-specific g
+          ROOTMOTIFTAPOX1	     ATATT	5	S000098	                                 Motif found both in promoters of rolD;
+             RSEPVGRP1	  CAACTTTCATAT	12	S000099	   "RSE (root-specific element)" of bean (P.v.) GRP1.8 gene; consensus sequence;See also S000288 and S
+            RSEPVGRP18	CATCCAACTTTCATAT	26	S000289	   "RSE (root-specific element)" found in bean (P.V.) grp1.8 gene promoter; Located at -98 to -73; Req
+             RSRBNEXTA	CAAACTCGTATATCCA	17	S000243	      "RSR (root specific region)" in promoter region of Brassica napus (B.n.) extA extensin gene;
+             RYREPEAT4	 TCCATGCATGCAC	13	S000010	   "RY repeat motif"; "Sph element"; seed expression; ABA; Gene: maize C1, wheat Em, rice rab16A, maiz
+          RYREPEATBNNAPA	     CATGCA	6	S000264	   "RY repeat" found in RY/G box (the complex containing the two RY repeats and the G-box) of napA gen
+           RYREPEATGMGY2	    CATGCAT	7	S000105	    "RY repeat motif (CATGCAT)"; Present in the 5' region of the soybean (G.m.) glycinin gene (Gy2);
+        RYREPEATLEGUMINBOX	    CATGCAY	7	S000100	   "RY repeat (CATGCAY)" or legumin box found in seed-storage protein genes in legume such as soybean
+          RYREPEATVFLEB4	    CATGCATG	8	S000102	   "RY repeat motif"; quantitative seed expression; Gene: Vicia faba LeB4; Soybean glycinin (Gy2); oth
+          S1FBOXSORPS1L21	     ATGGTA	6	S000223	   "S1F box" conserved both in spinach (S.o.) RPS1 and RPL21 genes encoding the plastid ribosomal prot
+            S1FSORPL21	    ATGGTATT	8	S000215	   "S1F binding site" ("S1 site") in spinach (S.o.) RPL21 gene encoding the plastid ribosomal protein
+            S2FSORPL21	   CCATACATT	9	S000166	   "S2F binding site" ("S2 site") in spinach RPL21 gene encoding the plastid ribosomal protein L21; S2
+             SARECAMV	CTGACGTAAGGGATGA	21	S000156	   Salicylic acid responsive element found in CaMV 35S promoter; Identical to as-1; Binding with ASF-1
+             SB1NPABC1	CACTAACACAAAGTAA	16	S000435	   Sclareol box1 (SB1) found at -827 of a plasma membrane ATP binding cassette (ABC) transporter gene
+             SB3NPABC1	TTATGAACAGTAATT	15	S000434	   Sclareol box3 (SB3) found at -216 of a plasma membrane ATP binding cassette (ABC) transporter gene
+            SBOXATRBCS	    CACCTCCA	8	S000500	   "S-box" conserved in several rbcS promoters in Arabidopsis; ABI4 binding site; "Important for the s
+            SE1PVGRP18	ATAATGGGCCACACTG	24	S000288	   "SE1 (Stem element 1)" found in the bean (P.v.) grp1.8 gene promoter; Located between -121 and -94;
+             SE2PVGRP1	TTNNNGTAGCTAGTGT	24	S000101	                 "SE2 (stem element 2)" of bean (P.v.) GRP1.8 gene; part of SE2 element;
+          SEBFCONSSTPR10A	    YTGTCWC	7	S000391	   Binding site of the potato silencing element binding factor (SEBF) gene found in promoter of pathog
+             SEF1MOTIF	   ATATTTAWW	9	S000006	   "SEF1 (soybean embryo factor 1)" binding motif; sequence found in 5'-upstream region (-640; -765) o
+            SEF3MOTIFGM	     AACCCA	6	S000115	   "SEF3 binding site"; Soybean (G.m.) consensus sequence found in the 5' upstream region of beta-cong
+           SEF4MOTIFGM7S	    RTTTTTR	7	S000103	   "SEF4 binding site"; Soybean (G.m.) consensus sequence found in 5'upstream region (-199) of beta-co
+           SGBFGMGMAUX28	   TCCACGTGTC	10	S000287	   bZIP proteins SGBF-1 and SGBF-2 binding site in soybean (G.m.) GmAux28 gene promoter; see S000042;
+            SITE1SORPS1	 TCATGGTAACAATT	14	S000211	   Site 1 in the spinach (S.o.) rps1 promoter; S1F binding site; Nuclear genes encoding plastid riboso
+            SITE3SORPS1	 AGTTAGTTAAAAGA	14	S000212	   Site 3 of spinach (S.o.) rps1 promoter; S1F binding site; For a compilation of related GT elements
+           SITEIIAOSPCNA	   TGGGCCCGT	9	S000216	   "Site IIa" of rice (O.s.) PCNA (proliferating cell nuclear antigen) gene; Found at -197 to -188; Bi
+           SITEIIATCYTC	     TGGGCY	6	S000474	   "Site II element" found in the promoter regions of cytochrome genes (Cytc-1, Cytc-2) in Arabidopsis
+           SITEIIBOSPCNA	   TGGTCCCAC	9	S000217	   "Site IIb" of rice PCNA (proliferating cell nuclear antigen) gene; Found at -178 to -169; Binding s
+            SITEIOSPCNA	    CCAGGTGG	8	S000224	   "Site I" of rice (O.s.) PCNA (proliferating cell nuclear antigen) gene; Found at -201 to -194; Rese
+             SORLIP1AT	     GCCAC	5	S000482	   one of "Sequences Over-Represented in Light-Induced Promoters (SORLIPs) in Arabidopsis; Computation
+             SORLIP2AT	     GGGCC	5	S000483	   one of "Sequences Over-Represented in Light-Induced Promoters (SORLIPs) in Arabidopsis; Computation
+             SORLIP3AT	   CTCAAGTGA	9	S000484	   one of "Sequences Over-Represented in Light-Induced Promoters (SORLIPs) in Arabidopsis; Computation
+             SORLIP4AT	   GTATGATGG	9	S000485	   one of "Sequences Over-Represented in Light-Induced Promoters (SORLIPs) in Arabidopsis; Computation
+             SORLIP5AT	    GAGTGAG	7	S000486	   one of "Sequences Over-Represented in Light-Induced Promoters (SORLIPs) in Arabidopsis; Computation
+            SORLREP2AT	   ATAAAACGT	9	S000487	   one of "Sequences Over-Represented in Light-Repressed Promoters (SORLREPs) in Arabidopsis; Computat
+            SORLREP3AT	   TGTATATAT	9	S000488	   one of "Sequences Over-Represented in Light-Repressed Promoters (SORLREPs) in Arabidopsis; Computat
+            SORLREP4AT	   CTCCTAATT	9	S000489	   one of "Sequences Over-Represented in Light-Repressed Promoters (SORLREPs) in Arabidopsis; Computat
+            SORLREP5AT	   TTGCATGACT	10	S000490	   one of "Sequences Over-Represented in Light-Repressed Promoters (SORLREPs) in Arabidopsis; Computat
+           SP8BFIBSP8AIB	    ACTGTGTA	8	S000183	   One of SPBF binding site (SP8a); Found at -155 of gSPO-A1 (sporamin) gene, and also at -880 of gB-A
+           SP8BFIBSP8BIB	    TACTATT	7	S000184	   One of SPBF binding site (SP8b); Found at -330, -220, and -200 of gSPO-B1 (sporamin) gene, and also
+            SPHCOREZMC1	   TCCATGCAT	9	S000154	   Core of Sph element; Core motif of Sph element in maize (Z.m.) C1 gene to which maize VP1 (viviparo
+              SPHZMC1	  CGTCCATGCAT	11	S000293	   "Sph element" found in the maize (Z.m.) C1 gene promoter; Located between -142 and -132; Essential
+             SREATMSD	     TTATCC	6	S000470	   "sugar-repressive element (SRE)" found in 272 of the 1592 down-regulated genes after main stem deca
+             SRENTTTO1	 TGGTAGGTGAGAT	13	S000271	   Stress responsive element (SRE) in tobacco (N.t.) retrotransposon Tto1; A 13 bp cis-regulatory elem
+           SURE1STPAT21	   AATAGAAAA	9	S000186	   Sucrose Responsive Element (SURE); A motif conserved among genes regulated by sucrose; See also SUR
+           SURE2STPAT21	   AATACTAAT	9	S000185	   Sucrose Responsive Element 2 (SURE2); A motif conserved among genes regulated by sucrose; See also
+            SUREAHVISO1	AAAACTAAGAAAGACC	25	S000441	   "SURE-a"; Sugar-responsive element found in barley (H. vulgare) iso1 (encoding isoamylase1) promote
+         SURECOREATSULTR11	     GAGAC	5	S000499	   Core of sulfur-responsive element (SURE) found in the promoter of SULTR1;1 high-affinity sulfate tr
+           SV40COREENHAN	    GTGGWWHG	8	S000123	                   "SV40 core enhancer"; Similar sequences found in rbcS genes; W=A/T;
+           T/GBOXATPIN2	     AACGTG	6	S000458	   "T/G-box" found in tomato proteinase inhibitor II (pin2) and leucine aminopeptidase (LAP) genes; In
+            TAAAGSTKST1	     TAAAG	5	S000387	   TAAAG motif found in promoter of Solanum tuberosum (S.t.) KST1 gene; Target site for trans-acting S
+           TACBBFNTEAS4	 ACTCTACAGTACTC	14	S000257	   TacBBF (TAC box binding factor) binding site in tobacco (N.t.) 5-epi-aristolochene synthase (EAS4)
+             TATABOX1	   CTATAAATAC	10	S000108	   "TATA box"; TATA box found in the 5'upstream region of rice alpha-amylase; TATA box found in beta-p
+             TATABOX2	    TATAAAT	7	S000109	   "TATA box"; TATA box found in the 5'upstream region of pea legA gene; sporamin A of sweet potato; T
+             TATABOX3	    TATTAAT	7	S000110	          "TATA box"; TATA box found in the 5'upstream region of sweet potato sporamin A gene;
+             TATABOX4	    TATATAA	7	S000111	   "TATA box"; TATA box found in the 5'upstream region of sweet potato sporamin A gene; TATA box found
+             TATABOX5	     TTATTT	6	S000203	   "TATA box"; TATA box found in the 5'upstream region of pea (Pisum sativum) glutamine synthetase gen
+           TATABOXOSPAL	    TATTTAA	7	S000400	   Binding site for OsTBP2, found in the promoter of rice pal gene encoding phenylalanine ammonia-lyas
+           TATAPVTRNALEU	    TTTATATA	8	S000340	   "TATA-like motif"; A TATA-like sequence found in Phaseolus vulgaris tRNALeu gene promoter; Frequent
+           TATCCACHVAL21	    TATCCAC	7	S000416	   "TATCCAC box" is a part of the conserved cis-acting response complex (GARC) that most often contain
+            TATCCAOSAMY	     TATCCA	6	S000403	   "TATCCA" element found in alpha-amylase promoters of rice (O.s.) at positions ca.90 to 150bp upstre
+       TATCCAYMOTIFOSRAMY3D	    TATCCAY	7	S000256	   "TATCCAY motif" found in rice (O.s.) RAmy3D alpha-amylase gene promoter; Y=T/C; a GATA motif as its
+            TBOXATGAPB	     ACTTTG	6	S000383	   "Tbox" found in the Arabidopsis thaliana (A.T.) GAPB gene promoter; Located between  -94 and -89 (T
+             TCA1MOTIF	   TCATCTTCTT	10	S000159	   TCA-1 (tobacco nuclear protein 1) binding site; Related to salicylic acid-inducible expression of m
+           TDBA12NTCHN50	  TGACTTTCTGAC	12	S000266	   TDBA12 binding site found in tobacco (N.t.) basic class I chitinase gene (CHN50); Elicitor response
+            TE2F2NTPCNA	    ATTCCCGC	8	S000397	   "te2f-2" found in the promoter of tobacco PCNA gene; Located between -84 and -77; Binding site of O
+            TEF1BOXATA1	ACAGGGGCATAATGGT	24	S000311	   "tef1 box" found in the Arabidopsis (A.t.) EF-1 alpha A1 gene promoter; Conserved in the A.t. EF-1
+          TEFBOXATEEF1AA1	AGGGGCATAATGGTAA	16	S000309	   "tef-box" found in the Arabidopsis (A.t.) eEF1AA1 gene promoter; An activating sequence associated
+         TELOBOXATEEF1AA1	   AAACCCTAA	9	S000308	   "telo-box" (telomere motif) found in the Arabidopsis (A.t.) eEF1AA1 gene promoter; Conserved in all
+            TGA1ANTPR1A	CGTCATCGAGATGACG	16	S000247	   TGA1a binding site in tobacco (N.t.) PR1a gene; as-1-like sequence; Contains two TGACG elements rem
+            TGACGTVMAMY	     TGACGT	6	S000377	   "TGACGT motif" found in the Vigna mungo (V.m.) alpha-Amylase (Amy) gene promoter; Located between -
+        TGTCACACMCUCUMISIN	    TGTCACA	7	S000422	   "TGTCACA motif" found in the region (from -254 to -215) of cucumisin (a subtilisin-like serine prot
+             TL1ATSAR	  CTGAAGAAGAA	11	S000473	   "TL1", a consensus sequence overrepresented in the promoter regions of all 13 NPR1-responsive ER-re
+             TOPOISOM	GTNWAYATTNATNNG	15	S000112	   Topoisomerase cleavage site consensus sequence;  Motif found in SAR (scaffold attachment region; or
+          TRANSINITDICOTS	    AMNAUGGC	8	S000201	                  Context sequence of translational initiation codon in dicots; M=A/C;
+         TRANSINITMONOCOTS	    RMNAUGGC	8	S000202	              Context sequence of translational initiation codon in monocots; R=A/G; M=A/C;
+             TRANSTART	  TAAACAATGGCT	12	S000113	                          plant consensus sequence for translation start site;
+             UP1ATMSD	   GGCCCAWWW	9	S000471	   "Up1" motif found in 162 of the 1184 up-regulated genes after main stem decapitation in Arabidopsis
+             UP2ATMSD	    AAACCCTA	8	S000472	   "Up2" motif found in 193 of the 1184 up-regulated genes after main stem decapitation in Arabidopsis
+              UPRE1AT	  ATTGGTCCACG	11	S000428	   "ERSEII-like sequence" found in the plant UPRE (unfolded protein response element) in A.t.; See S00
+              UPRE2AT	   CCACGTCATC	10	S000429	   "XBP1 binding site-like sequence" found in the plant UPRE (unfolded protein response element) in A.
+            UPRMOTIFIAT	    CCACGTCA	8	S000425	   "Motif I" in the conserved UPR (unfolded protein response) cis-acting element in Arabidopsis genes
+           UPRMOTIFIIAT	CCNNNNNNNNNNNNCC	19	S000426	   "Motif II" in the conserved UPR (unfolded protein response) cis-acting element in Arabidopsis genes
+             VOZATVPP	GCGTNNNNNNNACGC	15	S000456	   "VOZ-binding sequence" found in the promoter of A. thaliana V-PPase (vacuolar H+-pyrophosphatase) g
+            VSF1PVGRP18	   GCTCCGTTG	9	S000249	   VSF-1 binding site in French bean (P.v.) grp1.8 gene promoter; VSF-1 is a tomato bZIP transcription
+             WARBNEXTA	GTACGTGTTATAAAAC	20	S000241	             "WAR (wounding activating region)" in Brassica napus (B.n.) extA extensin gene;
+           WBBOXPCWRKY1	    TTTGACY	7	S000310	   "WB box"; WRKY proteins bind specifically to the DNA sequence motif (T)(T)TGAC(C/T), which is known
+            WBOXATNPR1	     TTGAC	5	S000390	   "W-box" found in promoter of Arabidopsis thaliana (A.t.) NPR1 gene; Located between +70 and +79 in
+            WBOXGACAD1A	 AGTCAAAATTGACC	14	S000448	   W-box found in the promoter region of the CAD1-A (cotton (+) delta-cadinene synthase-A) gene (locat
+            WBOXHVISO1	     TGACT	5	S000442	              SUSIBA2 bind to W-box element in barley iso1 (encoding isoamylase1) promoter;
+            WBOXNTCHN48	     CTGACY	6	S000508	   "W box" identified in the region between -125 and -69 of a tobacco class I basic chitinase gene CHN
+            WBOXNTERF3	     TGACY	5	S000457	   "W box" found in the promoter region of a transcriptional repressor ERF3 gene in tobacco; May be in
+            WINPSTPIIIK	   AAGCGTAAGT	10	S000495	   Binding site of wound-inducible nuclear protein from wounded tomato leaves; Found in the promoter r
+             WRECSAA01	   AAWGTATCSA	10	S000496	   "Wound-responsive element (WRE)" found in the promoter region of cucumber (C.s.) ascorbate oxidase
+             WRKY71OS	      TGAC	4	S000447	   "A core of TGAC-containing W-box" of, e.g., Amy32b promoter; Binding site of rice WRKY71, a transcr
+              WUSATAg	    TTAATGG	7	S000433	   Target sequence of WUS in the intron of AGAMOUS gene in Arabidopsis; See Lohmann et al. Cell 105:79
+               XYLAT	    ACAAAGAA	8	S000510	                cis-element identified among the promoters of the "core xylem gene set";
+          YREGIONNTPRB1B	TGTGACATTGAAATTC	26	S000365	   "Y region" found in tobacco (N.t.) PRB-1b gene promoter; Located at -179 to -154; Binding site of n
+         ZDNAFORMINGATCAB1	    ATACGTGT	8	S000321	   "Z-DNA-forming sequence" found in the Arabidopsis (A.t.) chlorophyll a/b binding protein gene (cab1
+
